@@ -3,9 +3,9 @@
  ## Web sit Responsivo
 
  Site responsivo teconologias usadas:<BR>
- :check: HTML <BR>
- :check: CSS <BR>
- :check: JavaScript
+ :heavy_check_mark: HTML <BR>
+ :heavy_check_mark: CSS <BR>
+ :heavy_check_mark: JavaScript
 
  <p> Desafios do projeto foi posicionar os elementos, usando flex box e grid, excutar o contador através do scroll da página para fazer as animações</p>
 
