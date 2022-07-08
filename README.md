@@ -1,6 +1,6 @@
 # Audi-R8 :sparkles:
  
- ## Web sit Responsivo
+ ## Web site Responsivo
 
  Site responsivo teconologias usadas:<BR>
  :heavy_check_mark: HTML <BR>
