@@ -2,12 +2,12 @@
  
  ## Web site Responsivo
 
- Site responsivo teconologias usadas:<BR>
+ Site responsivo tecnologias usadas:<BR>
  :heavy_check_mark: HTML <BR>
  :heavy_check_mark: CSS <BR>
  :heavy_check_mark: JavaScript
 
- <p> Desafios do projeto, foi posicionar os elementos usando flexbox, grid e excutar o contador através do scroll da página para fazer as animações.</p>
+ <p> Desafios do projeto, foi posicionar os elementos usando flexbox, grid e executar o contador através do scroll da página para fazer as animações.</p>
 
  ## Pré-visualização do projeto:
  [Audi-R8](https://audi-r8.netlify.app/)
