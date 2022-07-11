@@ -7,7 +7,7 @@
  :heavy_check_mark: CSS <BR>
  :heavy_check_mark: JavaScript
 
- <p> Desafios do projeto, foi posicionar os elementos usando flex box, grid e excutar o contador através do scroll da página para fazer as animações.</p>
+ <p> Desafios do projeto, foi posicionar os elementos usando flexbox, grid e excutar o contador através do scroll da página para fazer as animações.</p>
 
  ## Pré-visualização do projeto:
  [Audi-R8](https://audi-r8.netlify.app/)
